@@ -18,7 +18,7 @@ I enjoy turning complex ideas into simple, performant, and maintainable software
 
 ## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,node,express,mongodb,postgres,supabase,tailwind,git,github,linux,solidity,python)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vite,nodejs,express,mongodb,postgres,supabase,tailwind,github,linux,solidity)
 
 <details>
 <summary>More tools & technologies</summary>
@@ -43,21 +43,9 @@ I enjoy turning complex ideas into simple, performant, and maintainable software
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyrumpro&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyrumpro&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 
-I love building things that **actually get used** — clean code, real users, real impact.
+I enjoy building software that solves real problems — clean code, real users, real impact.
 
 <!--
 **hyrumpro/hyrumpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
