@@ -40,7 +40,7 @@ I enjoy turning complex ideas into simple, performant, and maintainable software
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://ficerto.tech/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=all" alt="Portfolio" /> 
+    <img src="https://pub-f9baa01df98644e084ee411b94b37b15.r2.dev/public/portfolio-icon.svg" alt="Portfolio" /> 
   </a>
 </p>
 
