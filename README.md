@@ -35,9 +35,12 @@ I enjoy turning complex ideas into simple, performant, and maintainable software
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<<p align="left">
   <a href="https://www.linkedin.com/in/hyrumdavid" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://ficerto.tech/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ae" alt="Portfolio" /> 
   </a>
 </p>
 
